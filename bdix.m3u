@@ -1,151 +1,112 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/tsports.jpg" ,TSports HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Tsports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/tsports.jpg",T Sports
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=live1
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starsports1hd.png" ,START SPORTS1
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_t.me/tvhoichoi24
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports 1
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=live3
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starsports2hd.png" ,STAR SPORTS2
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarSports2
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports 1 Hindi
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ss1_hindi
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/star-sports-selected-1.jpg" ,STAR SPORTS SELECT1 HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarSportsSelect1
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports Select 1
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ss_select_1
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/star-sports-selected-2.jpg" ,STAR SPORTS SELECT2 HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarSportsSelect2
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports 3
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ss_select_2
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sonySports2.png" ,SONY SPORTS 2 HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=SonyTenSports2
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports 3 (Alt)
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=star_sports_3
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sonySports5.png" ,SONY SPORTS 5 HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=SonyTenSports5
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Star Jalsha
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=live2
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/euroSports.png" ,EURO SPORTS HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Eurosport
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Jalsha Movies
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=live4
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/willow.jpg" ,WiLLoW
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=WiLLow
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Sun Bangla
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=sun_bangla
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://buy.ottbangla.com/4k/img/channels/ptvsports.png" ,PTV
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=PTV-kutta
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Sun Bangla (Alt)
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ss1_en
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/nagoriktv.png" ,NAGORIK
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=nagorik
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Ananda TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ananda_tv
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/somoytv.png" ,SHOMOY TV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_somoytv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Bangla Vision
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=banglavision
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/news24.png" ,NEWS24 HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=News24
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Bijoy TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=bijoy_tv
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/channel24.png" ,CHANNEL 24
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Channel24
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Boishakhi TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=boishakhi_tv
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/atnnews.png" ,ATN NEWS HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_AtnNews
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",BTV World
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=btv_world
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/ekattortv.png" ,EKATTOR TV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ekattor
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Channel 9
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=channel_9
 
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/jamunaTv.png" ,JAMUNA TV
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_JamunaTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Channel i
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=channel_i
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/atnbangla.png" ,ATN Bangla HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_AtnNews
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Deepto TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=deepto_tv
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/banglavision.png" ,BANGLA VISION HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_Enter10Bangla
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Desh TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=desh_tv
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/channeli.png" ,CHANNEL I HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_channelihd
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Ekushey TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ekushey_tv
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/gtv.png" ,GTV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_gazitvhd
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",GTV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=gtv
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/ntv.png" ,NTV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_NTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Mohona TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=mohona_tv
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/maasranga.png" ,Maasranga HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Maasranga
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Global HD Television
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=global_hd
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starjalshahd.png" ,STAR JALSHA HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_StarJalshaHD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Maasranga TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=maasranga
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/jalshamovies.png" ,Jalsha Movies HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=JalshaMovies
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Nexus Television
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=nexus_tv
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/zeebanglahd.png" ,ZEE BANGLA  HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_ZeeBanglaCinemaHD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Rtv
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=rtv
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/zeebanglacinema.png" ,ZEE BANGLA CHINEMA HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ZeeBanglaCinema
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",SATV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=satv
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/colorsbanglahd.png" ,COLOR BANGLA
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=bdixbd.net_ColorsBanglaHD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",My TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=mytv
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/colorsbanglacinema.png" ,COLOR BANGLA
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ColorsBanglaChinema
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Nagorik TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=nagorik_tv
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sonyaath.png" ,SONY AATH
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=SonyAath
+#EXTINF:-1 group-title="News" tvg-logo="",ATN News
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=atn_news
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/Enter%2010%20Bangla.jpeg" ,ENTER 10 BANGLA
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Enter10Bangla
+#EXTINF:-1 group-title="News" tvg-logo="",DBC News
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=dbc_news
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sonymaxhd.png" ,SONY MAX HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=SonyMAX
+#EXTINF:-1 group-title="News" tvg-logo="",Ekattor TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=ekattor_tv
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sonytvhd.png" ,SONY TV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=SonyTv
+#EXTINF:-1 group-title="News" tvg-logo="",Jamuna TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=jamuna_tv
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starplus.png" ,STAR PLUS HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarPlus
+#EXTINF:-1 group-title="News" tvg-logo="",News24
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=news24
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starGold.png" ,STAR GOLD HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarGold
+#EXTINF:-1 group-title="News" tvg-logo="",Somoy TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=somoy_tv
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/starMovies.png" ,STAR MOVIES HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarMovies
+#EXTINF:-1 group-title="News" tvg-logo="",Channel 24
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=channel24
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/zeetv.png" ,ZEE TV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ZeeTV
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/zeecinemahd.png" ,ZEE CHINEMA HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ZeeCinema
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/colorscineplex.png" ,COLOR CINEPLEX HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=ColorsCineplex
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://buy.ottbangla.com/4k/img/channels/discoveryhd.png" ,DISCOVERY HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=Discovery
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://buy.ottbangla.com/4k/img/channels/natgeohd.png" ,NATIONAL GEOGRAPHIC HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=NationalGeographic
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://buy.ottbangla.com/4k/img/channels/animal-planet-hd-us.png" ,ANIMAL PLANET HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=AnimalPlanet
-
-#EXTINF:-1 group-title="News" tvg-logo="https://buy.ottbangla.com/4k/img/channels/aljazeera.png" ,Aljazeera HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=News_Aljazeera
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://buy.ottbangla.com/4k/img/channels/B4U%20Movies.png" ,B4U MOVIES
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=b4uMovies
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://buy.ottbangla.com/4k/img/channels/cartoonnetwork.png" ,CARTOON NETWORK HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=CartoonNetwork
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://buy.ottbangla.com/4k/img/channels/discovery-kids-br.png" ,DISCOVERY KIDS HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=DiscoveryKids
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://buy.ottbangla.com/4k/img/channels/pogo.png" ,POGO
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=pogo
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://buy.ottbangla.com/4k/img/channels/sangeetBangla.jpg" ,SANGEET BANGLA
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=sangeetBangla
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://buy.ottbangla.com/4k/img/channels/9xJalwa.png" ,9X JALWA
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=9XJalwa
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://buy.ottbangla.com/4k/img/channels/srkTv.png" ,SRK TV HD
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=srkTv
+#EXTINF:-1 group-title="Kids" tvg-logo="",Duronto TV
+https://cdn.dlhub4u.top/vids/6x/stream.m3u8?id=duronto_tv
