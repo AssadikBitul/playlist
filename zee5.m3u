@@ -1,1 +1,127 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=AND+TV" group-title="Entertainment", AND TV
+https://daday.ejuda.online/zee5/player.php?cid=and_tv
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=AND+TV+HD" group-title="Entertainment", AND TV HD
+https://daday.ejuda.online/zee5/player.php?cid=and_tv_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=AND+PICTURES" group-title="Movies", AND PICTURES
+https://daday.ejuda.online/zee5/player.php?cid=and_pictures
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=AND+PICTURES+HD" group-title="Movies", AND PICTURES HD
+https://daday.ejuda.online/zee5/player.php?cid=and_pictures_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Animal+Planet+HD" group-title="Infotainment", Animal Planet HD
+https://daday.ejuda.online/zee5/player.php?cid=animal_planet_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=BBC+Earth" group-title="Infotainment", BBC Earth
+https://daday.ejuda.online/zee5/player.php?cid=bbc_earth
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=COLORS+HD" group-title="Entertainment", COLORS HD
+https://daday.ejuda.online/zee5/player.php?cid=colors_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Cartoon+Network" group-title="Kids", Cartoon Network
+https://daday.ejuda.online/zee5/player.php?cid=cartoon_network
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=CBeebies" group-title="Kids", CBeebies
+https://daday.ejuda.online/zee5/player.php?cid=cbeebies
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Disney+Jr" group-title="Kids", Disney Jr
+https://daday.ejuda.online/zee5/player.php?cid=disney_jr
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Discovery+Asia+HD" group-title="Infotainment", Discovery Asia HD
+https://daday.ejuda.online/zee5/player.php?cid=discovery_asia_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=DISCOVERY+SCIENCE" group-title="Infotainment", DISCOVERY SCIENCE
+https://daday.ejuda.online/zee5/player.php?cid=discovery_science
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=DISCOVERY+CHANNEL" group-title="Infotainment", DISCOVERY CHANNEL
+https://daday.ejuda.online/zee5/player.php?cid=discovery_channel
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Discovery+Channel+HD" group-title="Infotainment", Discovery Channel HD
+https://daday.ejuda.online/zee5/player.php?cid=discovery_channel_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=DISCOVERY+TURBO" group-title="Infotainment", DISCOVERY TURBO
+https://daday.ejuda.online/zee5/player.php?cid=discovery_turbo
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=DISCOVERY+KIDS" group-title="Kids", DISCOVERY KIDS
+https://daday.ejuda.online/zee5/player.php?cid=discovery_kids
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=History+HD" group-title="Infotainment", History HD
+https://daday.ejuda.online/zee5/player.php?cid=history_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=INVESTIGATION+DISCOVERY" group-title="Infotainment", INVESTIGATION DISCOVERY
+https://daday.ejuda.online/zee5/player.php?cid=investigation_discovery
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=KOREAN+DRAMAS" group-title="Entertainment", KOREAN DRAMAS
+https://daday.ejuda.online/zee5/player.php?cid=korean_dramas
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=MTVBEATS" group-title="Music", MTVBEATS
+https://daday.ejuda.online/zee5/player.php?cid=mtvbeats
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Nick+Jr" group-title="Kids", Nick Jr
+https://daday.ejuda.online/zee5/player.php?cid=nick_jr
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=NICKELODEON+HD" group-title="Kids", NICKELODEON HD
+https://daday.ejuda.online/zee5/player.php?cid=nickelodeon_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=SHORTSTV" group-title="Entertainment", SHORTSTV
+https://daday.ejuda.online/zee5/player.php?cid=shortstv
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=STAR+GOLD" group-title="Movies", STAR GOLD
+https://daday.ejuda.online/zee5/player.php?cid=star_gold
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=TLC" group-title="Lifestyle", TLC
+https://daday.ejuda.online/zee5/player.php?cid=tlc
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+TV" group-title="Entertainment", ZEE TV
+https://daday.ejuda.online/zee5/player.php?cid=zee_tv
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+TV+HD" group-title="Entertainment", ZEE TV HD
+https://daday.ejuda.online/zee5/player.php?cid=zee_tv_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+ANMOL" group-title="Entertainment", ZEE ANMOL
+https://daday.ejuda.online/zee5/player.php?cid=zee_anmol
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Bangla" group-title="Entertainment", Zee Bangla
+https://daday.ejuda.online/zee5/player.php?cid=zee_bangla
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Talkies" group-title="Entertainment", Zee Talkies
+https://daday.ejuda.online/zee5/player.php?cid=zee_talkies
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Sarthak" group-title="Entertainment", Zee Sarthak
+https://daday.ejuda.online/zee5/player.php?cid=zee_sarthak
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Kannada+HD" group-title="Entertainment", Zee Kannada HD
+https://daday.ejuda.online/zee5/player.php?cid=zee_kannada_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Telugu+HD" group-title="Entertainment", Zee Telugu HD
+https://daday.ejuda.online/zee5/player.php?cid=zee_telugu_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Tamil" group-title="Entertainment", Zee Tamil
+https://daday.ejuda.online/zee5/player.php?cid=zee_tamil
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Marathi+HD" group-title="Entertainment", Zee Marathi HD
+https://daday.ejuda.online/zee5/player.php?cid=zee_marathi_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+ANMOL+CINEMA" group-title="Movies", ZEE ANMOL CINEMA
+https://daday.ejuda.online/zee5/player.php?cid=zee_anmol_cinema
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+CINEMA" group-title="Movies", ZEE CINEMA
+https://daday.ejuda.online/zee5/player.php?cid=zee_cinema
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Cinema+HD" group-title="Movies", Zee Cinema HD
+https://daday.ejuda.online/zee5/player.php?cid=zee_cinema_hd
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZEE+BOLLYWOOD" group-title="Movies", ZEE BOLLYWOOD
+https://daday.ejuda.online/zee5/player.php?cid=zee_bollywood
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=Zee+Bangla+Cinema" group-title="Movies", Zee Bangla Cinema
+https://daday.ejuda.online/zee5/player.php?cid=zee_bangla_cinema
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZOOM" group-title="Entertainment", ZOOM
+https://daday.ejuda.online/zee5/player.php?cid=zoom
+
+#EXTINF:-1 tvg-logo="https://api.dicebear.com/9.x/initials/svg?seed=ZING" group-title="Music", ZING
+https://daday.ejuda.online/zee5/player.php?cid=zing
