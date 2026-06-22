@@ -10,3 +10,6 @@ https://khelalive.top/mpd/mpd.php?embed=id_d2f24ac7
 https://tiny-recipe-a871.mominulislamm3u8.workers.dev/proxy/stream?u=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_2000.m3u8%3Fhdntl%3DExpires%3D1782242766~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAVXEwvfjNjt_LnIvstlqVXT7yqF1PwYAWiZOX8h46I4rvzsCGfgHPrmcQMazxLVOdC5hjgMotfar9f2ABUZbU_z3UN0G
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/BQBstfcP/FIFA-World-Cup-2026-Replay.webp",FOX
 https://inproviszon.st/fox.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/BQBstfcP/FIFA-World-Cup-2026-Replay.webp",DB
+https://inproviszon.st/dsportsarg.m3u8
+
