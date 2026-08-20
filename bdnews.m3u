@@ -1,3 +1,8 @@
+#EXTM3U
+#PLAYLIST:Akash Go Live TV
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+
 #EXTINF:-1 tvg-id="318" tvg-name="Somoy tv" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="News",Somoy tv
 https://akash-by-hady.srhady.workers.dev/live/318.m3u8
 
